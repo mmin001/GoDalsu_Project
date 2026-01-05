@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664371205054",
+    "project_id": "godalsoo",
+    "storage_bucket": "godalsoo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664371205054:android:f8ae51947cfe4066c25fef",
+        "android_client_info": {
+          "package_name": "com.student.godalsu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFZC9ss96ftUqNtPGWVwCod4a72gDIVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
